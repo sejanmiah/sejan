@@ -1,0 +1,32 @@
+@media all and (max-width: 768px) {
+    .menu-area ul li a{
+        display: block;
+    }
+    .apple-store{
+        margin: 0;
+    }
+    .welcome-text h2{
+        line-height: 40PX;
+    }
+    .design-area .height{
+        height: 1125px;
+    }
+    .design-area .mobile-area{
+        width: 100%;
+    }
+    .design-area .design-text{
+        display: inline;
+    }
+    .main-div .col-1-3{
+        width: 100%;
+    }
+    .getting-started{
+        max-height: none;
+    }
+    .images-area img {
+        width: 200px;
+    }
+    .getting-started .col-1-2{
+        width: 100%;
+    }
+}
